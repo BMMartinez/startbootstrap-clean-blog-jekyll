@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Man must explore, and this is exploration at its greatest"
+title:      Adopta un Corrupto. De las altas esferas a la litera más alta.
 subtitle:   "Problems look mighty small from 150 miles up"
 date:       2014-09-24 12:00:00
 author:     "Start Bootstrap"
